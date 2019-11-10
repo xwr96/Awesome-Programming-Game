@@ -5,4 +5,4 @@
 ![](https://github.com/xwr96/Awesome-Programming-Game/blob/master/Image/1.jpg)
 ### 2、[极客战记](https://codecombat.163.com/play)
 这是一款学习编程的角色扮演游戏。每一关都用任务的形式设立目标，用实时的反馈及时纠正代码的错误，用游戏的语言来呈现编程的用处。比如玩装备剑你就学会了攻击的指令，玩装备魔法书你就学会了锁敌的技能。虽然都是编程的基础，但足够让玩家认识到游戏开发的地基是如何建造的。
-![]()
+![](https://github.com/xwr96/Awesome-Programming-Game/blob/master/Image/2.jpg)

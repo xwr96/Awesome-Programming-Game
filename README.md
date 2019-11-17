@@ -10,4 +10,4 @@
 steam 上知名的（《HUMAN RESOURCE MACHINE》），画风有趣，剧情感人。在玩游戏的过程中，你能温习/学习计算机专业基本的标准输入流、标准输出流、寄存器、指针等概念，同时考验逻辑思维能力。随着剧情的层层推进，你还能经历城市骚乱，职场中形形色色的人，以及随着不断升职迎接着你的最终结局。唯一遗憾的是这款游戏要收费。
 ### 4、[Codewars](https://www.codewars.com/)
 Codewars让你在在战斗中进行学习，支持JavaScript、Python、C#、Java、Python等语言。用游戏化的方法来联系编码和解决算法挑战。最重要的是，在codewars，你可以看到别人提交的解决方案，这是你提升编程技术的好方法，很多平台做不到这一点。
-![]()
+![](https://github.com/xwr96/Awesome-Programming-Game/blob/master/Image/3.jpg)
